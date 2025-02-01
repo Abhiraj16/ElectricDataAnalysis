@@ -9,6 +9,7 @@ This project explores electric vehicle (EV) adoption trends using machine learni
 - Regression models (Random Forest, XGBoost, Decision Trees) for price prediction.
 - Handling missing data and class imbalance using SMOTE.
 - Performance evaluation through accuracy, precision, recall, and R² metrics.
+  
 🔗 Resources:
 https://www.kaggle.com/datasets/rajkumarpandey02/electric-vehicle-population-data/data
 This repository serves as a valuable resource for researchers, policymakers, and businesses looking to understand EV adoption trends and make data-driven decisions for infrastructure planning and sustainability initiatives.
